@@ -1,0 +1,6 @@
+- 👋 Hi, I’m shiva sharma
+- 👀 I’m interested in exploring nature
+- 🌱 I’m currently learning c++ language
+- 🏫 I'm currently in Abeds engineering college
+- 🛐 I'm from Gorakhpur
+- 😇 Be Happy.

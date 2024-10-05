@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shiva sharma
-- 👀 I’m interested in exploring nature
-- 🌱 I’m currently learning c++ language
-- 🏫 I'm currently in Abes engineering college
-- 🛐 I'm from Gorakhpur
-- 😇 Be Happy.
+- 👀 I’m interested in exploring new places
+- 🌱 I’m currently learning  web development
+- 🏫 I'm currently in ABES Engineering College
+- 🛐 I'm from Ghaziabad
+- 😇 Stay Happy.....
